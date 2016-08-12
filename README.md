@@ -7,6 +7,7 @@ Requirement: python 2.7
 
 2. run the task
   python classify.py run [-s] configure-file
+  you can find the result in output folder
   
 3. run the benchmark
   python classify.py benchmark [-s] configure-file
