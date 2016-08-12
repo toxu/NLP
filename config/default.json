@@ -1,0 +1,6 @@
+{
+    "eng": "eng.txt",
+    "chn": "combination_chn.txt",
+    "input": "tokens.txt",
+    "benchmark": "benchmark.txt"
+}
